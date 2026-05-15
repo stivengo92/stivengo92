@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-:computer: **Ingeniero de Sistemas**
+computer: **Ingeniero de Sistemas**
 
-:computer: **Desarrollador Junior**
+computer: **Desarrollador Junior**
 
-:futbol: **Fan del Arsenal FC**
+# Hola 👋
 
-:family: **¡feliz de ser papa´**
+💻 Programador  
+⚽ Fan del fútbol
+
+ ⚽ Fan del fútbol ** del Arsenal FC**
+
+family: **¡feliz de ser papa´**
 
 ### Vias de Contacto
 
