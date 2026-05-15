@@ -4,7 +4,7 @@
 
 :computer: **Desarrollador Junior**
 
-:oncomic_futbol: **Fan del Arsenal FC**
+:futbol: **Fan del Arsenal FC**
 
 :family: **¡feliz de ser papa´**
 
