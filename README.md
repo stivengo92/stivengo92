@@ -4,7 +4,8 @@
 
 :💻: **Desarrollador Junior**
 
-:# Hola 👋
+🚀 Aprendiendo c# y .NET
+
 
  ⚽ Fan del fútbol ** del Arsenal FC**
 
