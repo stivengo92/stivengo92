@@ -1,15 +1,19 @@
-### Hi 👋,** I'm STIVEN GOMEZ**
+### **Hi 👋, I'm STIVEN GOMEZ**
 
-:💻: **Ingeniero de Sistemas**
+### 💻 **Ingeniero de Sistemas**
 
-:💻: **Desarrollador Junior**
+### 💻 **Desarrollador Junior**
 
 🚀 **Aprendiendo c# y .NET**
 
 
- **⚽ Fan del club Arsenal FC**
+ **⚽ Hincha del**
 
-FAMILIA: **¡feliz de ser papa´**
+ ![ArsenaL Fc](https://img.shields.io/badge/arsenal%20-000000?style=for-the-badge&logo=arsenal&logoColor=white)
+
+ **LONDON IS RED**
+
+ **¡feliz de ser papa!**
 
 ### Vias de Contacto
 
